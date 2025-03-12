@@ -1,2 +1,1 @@
-# kubernetesproject
-a devops project using scriptshell , git , docker and kubernetes
+This is my first DevOps project
